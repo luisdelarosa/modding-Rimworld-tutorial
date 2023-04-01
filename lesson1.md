@@ -40,6 +40,7 @@ We want to get started right away, so use whatever you have on hand! Notepad is 
         <li>1.1</li>
         <li>1.2</li>
         <li>1.3</li>
+        <li>1.4</li>
     </supportedVersions>
     <packageId>johndoe.helloworld</packageId> <!-- a unique identifier for your mod. Must contain only a-z and periods, no spaces. -->
     <description>
